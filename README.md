@@ -1,10 +1,8 @@
-# Groupe 13, Projet WEB
-
-Esteban Fanjul, Mathis Meunier, Killian Guichet
+# Tree Asset Manager
 
 ## Description
-Le projet consiste a créer un site web repertoriant les arbres de la ville de Saint-Qentin. Les utilisateurs peuvent consulter les arbres, les ajouter, les modifier et les supprimer. Les utilisateurs peuvent aussi consulter les arbres sur une carte.  
-De plus grace a nos modèle de prédiction, nous somme capable de prédir l'age des arbres ansi que de faire du clustering sur les arbres.  
+Le projet consiste a créer un site web repertoriant les arbres de la ville de Saint-Qentin, et ainsi de pouvoir les consulter, les visualiser sur une carte, les modifier ou bien les supprimer.
+Le projet vise également à faire de l'analyse sur une base de donnée massive, en devant filtrer les données erronées, trier celles corrects pour ensuite pouvoir les traiter. Une fois propre, ces données nous permettent d'entraîner des IA via divers modèles d'apprentissage (Clustering et Classifiers) pour parvenir à prédire des caractéristiques sur des arbres tel que leur âge, couleur, taille, etc... L'accent a notamment été mit sur l'étude des corrélations, de la pertinence des données traités selon le tri, la provenance et les relations de causalité, via des études graphiques de Big Data. 
 
 ## Installation
 ### Technologie
